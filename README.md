@@ -1,2 +1,2 @@
 # abyss-ui
-A dark and minimal UI for Atom editor.
+A dark and minimal UI theme for Atom editor.
